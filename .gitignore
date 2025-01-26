@@ -1,0 +1,5 @@
+/input.txt
+/output.txt
+.vscode/*
+.vscode/tasks.json
+./.vscode
