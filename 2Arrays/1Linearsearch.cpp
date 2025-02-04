@@ -11,7 +11,8 @@ int linearsearch(int arr[],int n,int x){
 }
 
 int main(){
-    int arr[] = {1,2,3,4};
+    int arr[] = {1,2,3,4}; 
+    
     int n = sizeof(arr)/sizeof(arr[0]);
     int index = linearsearch(arr,n,3);
     if(index==-1) cout<<"Element not found!";
